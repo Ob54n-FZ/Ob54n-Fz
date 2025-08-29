@@ -24,11 +24,8 @@
 ---
 [![OSV-Scanner](https://github.com/Ob54n-FZ/Ob54n-Fz/actions/workflows/osv-scanner.yml/badge.svg)](https://github.com/Ob54n-FZ/Ob54n-Fz/actions/workflows/osv-scanner.yml)
 
-  
   ---
 💡 When I'm not cyber maneuvering or coding, I’m exploring advanced network protocols, learning new web technologies, and executing secret missions nobody knows about.  
  *The key is never where you look for it*    O654^
  
 
-HA
-graph test
