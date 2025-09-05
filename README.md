@@ -14,7 +14,10 @@
 
 ---
 ### 🛠️ Languages & Tools
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,php,sql,bash,git,latex,php,vim,npm,linux,go,html,css,swift,scala,react,nodejs&theme=dark)](https://skillicons.dev)  
+
+[![Skills](https://skillicons.dev/icons?i=python,c,cpp,go,rust,bash,powershell,java,js,ts,php,ruby,lua,perl,swift,scala,html,css,git,linux,docker,kali,ubuntu,arch,redhat,raspberrypi,nginx,mysql,postgres,sqlite,regex,latex,vim,emacs,npm,nodejs,react&theme=dark)](https://skillicons.dev)
+
+
 
  ---
 - 📫 Feel free to reach out to me anytime. 👇  
