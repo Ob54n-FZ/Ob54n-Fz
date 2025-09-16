@@ -10,7 +10,7 @@
 
 
 ### 🛠️ Languages & Tools
-[![Skills](https://skillicons.dev/icons?i=c,python,go,rust,java,js,ts,php,lua,swift,scala,linux,docker,arch,redhat,mysql,postgres,sqlite,regex,latex,emacs,npm,nodejs,react&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,python,go,rust,java,js,ts,php,lua,swift,scala,linux,docker,redhat,mysql,postgres,sqlite,regex,latex,emacs,npm,nodejs,react&theme=dark)](https://skillicons.dev)
 
 ---
 - 📫 Feel free to reach out to me anytime. 👇  
